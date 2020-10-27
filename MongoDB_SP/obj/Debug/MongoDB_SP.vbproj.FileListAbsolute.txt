@@ -1,0 +1,4 @@
+C:\Users\Nguyen Quoc Cuong\source\repos\MongoDB_SP\MongoDB_SP\obj\Debug\MongoDB_SP.vbprojAssemblyReference.cache
+C:\Users\Nguyen Quoc Cuong\source\repos\MongoDB_SP\MongoDB_SP\obj\Debug\MongoDB_SP.Resources.resources
+C:\Users\Nguyen Quoc Cuong\source\repos\MongoDB_SP\MongoDB_SP\obj\Debug\MongoDB_SP.vbproj.GenerateResource.cache
+C:\Users\Nguyen Quoc Cuong\source\repos\MongoDB_SP\MongoDB_SP\obj\Debug\MongoDB_SP.vbproj.CoreCompileInputs.cache
